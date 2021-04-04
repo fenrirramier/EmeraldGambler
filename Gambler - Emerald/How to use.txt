@@ -1,0 +1,34 @@
+Assuming you've built the program and have an executable file in the bin directory you should be ready to use it.
+
+1. Ensure you are at Bandit camp and you are SITTING IN A BETTING SEAT.
+
+2. Open the betting system next to the seat (Where you can bet on 1, 3, 5, 10, 20), Move all your scrap to the top left of your inventory. The program uses the top 6 slots of your inventory, Leaving these empty or filled with other than scrap will not work. So leave the scrap in the VERY top left of your inventory. LEAVE THIS OPEN and open the gambler.
+
+3. Hit enter on start [obv]
+
+4. Select the number of chances before you run out of scrap.
+
+	Example: 6 Chances to lose with the initial amount of 800 Scrap.
+		Inital scrap: 13, 
+		Losing 1st bet you up it to 25, 
+		Losing 2nd bet you up it to 50, 
+		Losing 3rd bet you up it to 100, 
+		Losing 4th bet you up it to 200, 
+		Losing 5th bet you up it to 400 (Final)
+	Example 2: 8 Chances to lose with the initial amount of 1600 Scrap.
+		Initial scrap: 7, 
+		Losing 1st bet you up it to 13, 
+		Losing 2nd bet you up it to 25, 
+		Losing 3rd bet you up it to 50, 
+		Losing 4th bet you up it to 100, 
+		Losing 5th bet you up it to 200
+		Losing 6th bet you up it to 400
+		Losing 7th bet you up it to 800 (Final)
+The more chances to give before you lose makes the scrap profit MUCH slower than a risky lower chances to lose.
+You can choose how much you want to risk it. YOU CAN LOSE AT ANY POINT, THERE IS NO RIGHT WAY.
+
+5. Enter the amount of scrap you have in your inventory, The higher the amount the better profit. If you start at 300 scrap, It will be a SUPER slow start but will snow ball up there.
+
+6. [QUICKLY TAB BACK INTO THE GAME ONCE YOU HIT ENTER ON THIS ONE] Enter the scrap you would like to stop at, The maximum is 6000 scrap as food and hunger MAY kill you over time if you arent careful. [TAB BACK INTO RUST AFTER HITTING ENTER AND THE BETTING MENU OPEN IN GAME]
+
+7. Sit back and relax as the program plays for you.
